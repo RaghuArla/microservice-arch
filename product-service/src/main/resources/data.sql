@@ -1,0 +1,1 @@
+INSERT into Employee values(1001,'Sia',999.11);
